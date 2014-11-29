@@ -1,0 +1,6 @@
+sample/jetty/service/HelloWorldService.class
+sample/jetty/web/SampleController.class
+sample/jetty/repository/JpaReportRepository.class
+sample/jetty/domain/Users.class
+sample/jetty/repository/ReportRepository.class
+sample/jetty/SampleJettyApplication.class
